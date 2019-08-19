@@ -1,2 +1,4 @@
 # learning-markdown
-https://craew.github.io/learning-markdown/IDE_txteditor/IDE_txteditor.md
+* [IDE Text editors](https://github.com/CRAEW/learning-markdown/blob/master/IDE_txteditor/IDE_txteditor.md)
+* [markdown group exersice](https://github.com/CRAEW/learning-markdown/blob/master/markdown/markdown.md)
+* 
